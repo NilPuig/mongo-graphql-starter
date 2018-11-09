@@ -1,0 +1,4 @@
+{
+  "rootDir": "../testProject1_NewDriver",
+  "globalSetup": "<rootDir>/../masterSetup.js"
+}
